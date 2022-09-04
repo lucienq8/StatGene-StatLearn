@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 3.0 License
+-->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Qing Lu</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="style.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<body>
+<div id="wrapper">
+		<div id="logo">
+			
+		<h1><a href="index.html">Qing Lu, Ph.D</a></h1>
+			
+			
+		</div>
+	<div id="header">
+	</div>
+	<div id="menu">
+		<ul>
+			<li class="first"><a href="index.html" accesskey="1" title="">Home</a></li>
+			<li><a href="Publications.html" accesskey="2" title="">Publications</a></li>
+			<li><a href="Teaching.html" accesskey="3" title="">Teaching</a></li>
+			<li><a href="Software.html" accesskey="5" title="">Software</a></li>
+			<li><a href="Photos.html" accesskey="4" title="">Photos</a></li>
+			<li><a href="Joining.html" accesskey="4" title="">Joining us</a></li>
+			<li><a href="Contact.html" accesskey="6" title="">Contact</a></li>
+		</ul>
+	</div>
+	
+		<div id="page">
+		<div id="content">
+			<div class="post">
+				<h2 class="title">Courses Taught</h2>
+				<p>I am the primary instructor for EPI 809 (Biostatistics II), which introduces statistical inference at an introductory level. 
+							The course is offered spring each year. An example of the Syllabus can be found <a href="doc/EPI809SYLLABUS2013.doc">here</a>.
+					</p>
+				
+			</div>				
+		</div>
+		<!-- end #content -->
+		
+		
+		<div id="sidebar">
+					<h2>NIH T32 Program</h2>
+				  <p>I am training faculty on a NIH/NIDA supported T32 program in <a href="http://www.epi.msu.edu/nida/">drug dependence epidmiology</a> 
+				  	and a Year-Long NIH T32 program in <a href="http://cvm.msu.edu/research/summer-research-program-1/nih-t-32-training-grant">hypothesis-based biomedical research for Veterinary students</a>.
+					</p>
+							
+					<!--<h2>Website</h2>
+					<ul>
+						<li><a href="http://www.ted.com/">TED</a></li>
+						<li><a href="http://www.economist.com/">Economist</a></li>
+						<li><a href="http://www.ifeng.com/">凤凰网</a></li>
+					</ul>-->
+			
+		</div>
+		<!-- end #sidebar -->
+		<div style="clear: both;">&nbsp;</div>
+	</div>
+</div>
+<div id="footer">
+	<p>Copyright &copy; 2013 Qing Lu</p>
+</div>
+</body>
+</html>

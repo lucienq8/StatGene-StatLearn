@@ -1,0 +1,306 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 3.0 License
+-->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Qing Lu</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="style.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<body>
+<div id="wrapper">
+		<div id="logo">
+			
+		<h1><a href="index.html">Qing Lu, Ph.D</a></h1>
+			
+			
+		</div>
+	<div id="header">
+	</div>
+	<div id="menu">
+		<ul>
+			<li class="first"><a href="index.html" accesskey="1" title="">Home</a></li>
+			<li><a href="Publications.html" accesskey="2" title="">Publications</a></li>
+			<li><a href="Teaching.html" accesskey="3" title="">Teaching</a></li>
+			<li><a href="Software.html" accesskey="5" title="">Software</a></li>
+			<li><a href="Photos.html" accesskey="4" title="">Photos</a></li>
+			<li><a href="Joining.html" accesskey="4" title="">Joining us</a></li>
+			<li><a href="Contact.html" accesskey="6" title="">Contact</a></li>
+		</ul>
+	</div>
+	
+	<div id="page">
+		<div id="content">
+			<div class="post">
+				<h2 class="title">Bridge: a GUI Software for Genetic Risk Prediction </h2>
+					<p>Bridge is built for both designing and analyzing a risk prediction model. In the design stage, 
+						it provides an estimated classification accuracy of the model and determines the sample size required to verify this accuracy. 
+					In the analysis stage, it adopts a robust and powerful algorithm for forming the risk prediction model. </p>
+					<div class="entry">
+						
+				 <h3 class="title"> Download </h3>
+						
+						<table border=1 width=100%>
+							<tr>
+							<th>File name</th>
+							<th>Download</th>
+							<th>Description</th>
+							</tr>
+
+							<tr>
+							<td>Bridge</td>
+							<td><a href="doc/Bridge_1.0.zip">Bridge_1.0.zip</a></td>
+							<td>R GUI software for genetic risk prediction (version 1.0)</td>
+							</tr>
+
+						
+							<tr>
+							<td>Installing script</td>
+							<td><a href="doc/install.R">install.R</a></td>
+							<td> A R script to install Bridge software. In order to appropriate install
+									Bridge, we suggest users to first install a recent R version (>= 3.0.0.) </td>
+							</tr>
+
+							<tr>
+							<td>Bridge vignette</td>
+							<td> <a href="doc/Bridge.pdf">Bridge.pdf</a> </td>
+							<td> User manual (version 1.0)</td>
+							</tr>
+
+							</table>
+					<p class="clearfix">&nbsp;</p>
+					
+					
+					<h2 class="title" id="GWGGI"> GWGGI: Genome-Wide Gene-Gene Interaction Analysis </h2>
+				<p>GWGGI is C++ software for genome-wide gene-gene interaction analyses . GWGGI utilizes tree-based algorithms to search a large number of genetic markers for 
+					disease-associated joint association with the consideration of high-order interactions, and then uses non-parametric statistics to test the joint association. </p>
+				
+				<div class="entry">
+					<h3 class="title"> Download </h3>
+						
+						<table border=1 width=80%>
+							<tr>
+							<th>Platform</th>
+							<th>File</th>
+							<th>Version</th>
+							</tr>
+
+							<tr>
+							<td>Unix</td>
+							<td><a href="doc/gwggi.unix.zip">gwggi.unix.zip</a></td>
+							<td> v1.0 </td>
+							</tr>
+
+
+							<tr>
+							<td>Windows</td>
+							<td> <a href="doc/gwggi.win.zip">gwggi.win.zip</a> </td>
+							<td> v1.0 </td>
+							</tr>
+
+
+							<tr>
+							<td>C++ source</td>
+							<td><a href="doc/gwggi.code.zip">gwggi.code.zip</a></td>
+							<td> v1.0 </td>
+							</tr>
+
+							</table>
+						
+					<p class="clearfix">&nbsp;</p>
+
+					
+					
+				<h2 class="title">MLR: R code for genetic risk prediction allowing for phenotypic heterogeneity </h2>
+					<p>MLR iteratively determines homogenous sub-phenotype groups, and builds a parsimonious risk prediction model for each sub-phenotype group. </p>
+					<div class="entry">
+						
+				 <h3 class="title"> Download </h3>
+						
+						<table border=1 width=100%>
+							<tr>
+							<th>File name</th>
+							<th>Download</th>
+							<th>Description</th>
+							</tr>
+
+							<tr>
+							<td>MLR</td>
+							<td><a href="doc/Code.zip">Code.zip</a></td>
+							<td>R code </td>
+							</tr>
+
+						
+							<tr>
+							<td>Example</td>
+							<td><a href="doc/Example.R">Example.R</a></td>
+							<td> a simple example of running the programs </td>
+							</tr>
+
+							<tr>
+							<td>Readme</td>
+							<td> <a href="doc/Readme.txt">Readme.txt</a> </td>
+							<td> Readme file</td>
+							</tr>
+
+							</table>
+					<p class="clearfix">&nbsp;</p>
+					
+					
+						
+				<h2 class="title">FB_GGRF: R code for genetic association analysis of family-based sequencing Data </h2>
+					<p>FB_GGRF utilizes a generalized genetic random field method for the statistical analysis of family-based sequencing data. </p>
+					<div class="entry">
+						
+				 <h3 class="title"> Download </h3>
+						
+						<table border=1 width=100%>
+							<tr>
+							<th>File name</th>
+							<th>Download</th>
+							<th>Description</th>
+							</tr>
+
+							<tr>
+							<td>MLR</td>
+							<td><a href="doc/FB_GGRFCode.zip">Code.zip</a></td>
+							<td>R code </td>
+							</tr>
+
+						
+							<tr>
+							<td>Example</td>
+							<td><a href="doc/FB_GGRFExample.zip">Example.R</a></td>
+							<td> a simple example of running the programs </td>
+							</tr>
+
+							
+
+							</table>
+					<p class="clearfix">&nbsp;</p>
+				
+				
+				<h2 class="title">FU: R code for functional data analysis of sequencing Data </h2>
+					<p>FU first constructs smooth functions from individuals’ sequencing data, and then tests the association of these functions with multiple phenotypes by using a U-statistic.  </p>
+					<div class="entry">
+						
+				 <h3 class="title"> Download </h3>
+						
+						<table border=1 width=100%>
+							<tr>
+							<th>File name</th>
+							<th>Download</th>
+							<th>Description</th>
+							</tr>
+
+							<tr>
+							<td>MLR</td>
+							<td><a href="doc/F_Test.R">FU</a></td>
+							<td>R code </td>
+							</tr>
+
+						
+							<tr>
+							<td>Example</td>
+							<td><a href="doc/Fuexample.zip">Example</a></td>
+							<td> a simple example of running the programs </td>
+							</tr>
+
+							
+
+							</table>
+					<p class="clearfix">&nbsp;</p>
+				
+				
+				
+					
+					<h2 class="title">GGRF: R code for genetic association analysis of sequencing Data by using a generalized genetic random field method </h2> 
+					<p> GGRF utilizes a generalized genetic random field method for the statistical analysis of sequencing data. It accommodates a variety of disease phenotypes (e.g., quantitative and binary phenotypes), and can be applied to small-scale sequencing data without need for small-sample adjustment. </p>
+					<div class="entry">
+						
+				 <h3 class="title"> Download </h3>
+						
+						<table border=1 width=100%>
+							<tr>
+							<th>File name</th>
+							<th>Download</th>
+							<th>Description</th>
+							</tr>
+
+							<tr>
+							<td>GGRF</td>
+							<td><a href="doc/function.r">function.r</a></td>
+							<td>R code </td>
+							</tr>
+
+						
+							<tr>
+							<td>Example</td>
+							<td><a href="doc/Example.zip">Example.zip</a></td>
+							<td> a simple example of running the program </td>
+							</tr>
+
+							<tr>
+							<td>Readme</td>
+							<td> <a href="doc/ReadmeGGRF.txt">Readme.txt</a> </td>
+							<td> Readme file</td>
+							</tr>
+
+							</table>
+					<p class="clearfix">&nbsp;</p>
+				
+				</div>
+				
+				
+					
+			</div>				
+		</div>
+			<!-- end #content -->
+		<!--
+		<div id="sidebar">
+					<h2>News</h2>
+				<ol>
+				<li>Yalu's paper, <a href="http://www.ncbi.nlm.nih.gov/pubmed/23334941">A bivariate mann-whitney approach for unraveling genetic variants and interactions contributing to comorbidity</a>,  has been 
+					published in <em>Genetic Epidemiology</em>.
+			  <li><a href="https://www.msu.edu/~changs18/publication.html">Changshuai</a>'s paper, <a href="http://www.ncbi.nlm.nih.gov/pubmed/23135745">Trees Assembling Mann-Whitney approach for detecting genome-wide joint association among low-marginal-effect loci</a>, has been 
+					published in <em>Genetic Epidemiology</em>.
+				<li><a href="http://www.arpediatrics.org/index.php?option=com_uams&view=faculty&sap=00041481">Dr. Ming Li</a>'s review paper, <a href="http://www.ncbi.nlm.nih.gov/pubmed/23003010">On epistasis: a methodological review for detecting gene-gene interactions underlying various types of phenotypic traits.</a>, has been 
+					published in <em>Recent Patents on Biotechnology</em>.
+						
+					<!--<h2>Website</h2>
+					<ul>
+						<li><a href="http://www.ted.com/">TED</a></li>
+						<li><a href="http://www.economist.com/">Economist</a></li>
+						<li><a href="http://www.ifeng.com/">凤凰网</a></li>
+					</ul>
+			
+				
+			<ol>
+		</div>-->
+
+		<!-- end #sidebar -->
+		<div style="clear: both;">&nbsp;</div>
+	</div>
+</div>
+<div id="footer">
+	<p>Copyright &copy; 2014 Qing Lu</p>
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47758639-1', 'msu.edu');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>
+
